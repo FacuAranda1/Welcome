@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faqaranda
 - 👀 I’m interested in web development and UX & UI.
-- 🌱 I’m currently learning Multimedia Design
+- 🌱 I’m currently studying Multimedia Design
 
 <!---
 faqaranda/faqaranda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
